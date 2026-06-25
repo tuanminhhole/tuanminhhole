@@ -1,12 +1,12 @@
 <!-- ✨ Animated waving header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=tuanminhhole&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Kent%20•%20Vọc%20Tech%20Không%20Cọc&descAlignY=58&descSize=20" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=tuanminhhole&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Kent%20%7C%20Automation%20%7C%20Bot%20%7C%20AI%20Agent&descAlignY=58&descSize=20" width="100%" alt="header" />
 </div>
 
 <!-- ⌨️ Typing animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=AI+Agent+%26+Chatbot+builder+%F0%9F%A4%96;Automation+with+n8n+%E2%9A%A1;OpenClaw+ecosystem+author+%F0%9F%A6%9E;Ko+bi%E1%BA%BFt+th%C3%AC+h%E1%BB%8Dc+%F0%9F%98%8E)](https://github.com/tuanminhhole)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=AI+Agent+%26+Chatbot+builder+%F0%9F%A4%96;Automation+with+n8n+%E2%9A%A1;OpenClaw+ecosystem+author+%F0%9F%A6%9E;Build+%E2%80%A2+Share+%E2%80%A2+Repeat+%F0%9F%9A%80)](https://github.com/tuanminhhole)
 
 <!-- Profile views + followers -->
 <img src="https://komarev.com/ghpvc/?username=tuanminhhole&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="views" />
