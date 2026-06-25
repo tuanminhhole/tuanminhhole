@@ -37,13 +37,11 @@ const kent = {
 
 <div align="center">
 
-<a href="https://monkeytech192.vn"><img src="https://img.shields.io/badge/Website-monkeytech192.vn-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
+<a href="https://monkeytech.io.vn"><img src="https://img.shields.io/badge/Website-monkeytech.io.vn-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
 <a href="https://www.facebook.com/holeminhtuan.it"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
 <a href="https://www.threads.com/@holeminhtuan_it"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="threads" /></a>
 <a href="https://t.me/holeminhtuan_it"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
 <a href="https://zalo.me/0962794917"><img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="zalo" /></a>
-<a href="https://orcid.org/0009-0003-8608-7900"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="orcid" /></a>
-
 </div>
 
 ---
