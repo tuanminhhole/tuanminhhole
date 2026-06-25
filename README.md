@@ -1,16 +1,16 @@
 <!-- ✨ Animated waving header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=tuanminhhole&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Kent%20%7C%20Automation%20%7C%20Bot%20%7C%20AI%20Agent&descAlignY=58&descSize=20" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,50:0b3a6f,100:38bdf8&height=210&section=header&text=tuanminhhole&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Kent%20%7C%20Automation%20%7C%20Bot%20%7C%20AI%20Agent&descAlignY=58&descSize=20" width="100%" alt="header" />
 </div>
 
 <!-- ⌨️ Typing animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=AI+Agent+%26+Chatbot+builder+%F0%9F%A4%96;Automation+with+n8n+%E2%9A%A1;OpenClaw+ecosystem+author+%F0%9F%A6%9E;Build+%E2%80%A2+Share+%E2%80%A2+Repeat+%F0%9F%9A%80)](https://github.com/tuanminhhole)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+Agent+%26+Chatbot+builder+%F0%9F%A4%96;Automation+with+n8n+%E2%9A%A1;OpenClaw+ecosystem+author+%F0%9F%A6%9E;Build+%E2%80%A2+Share+%E2%80%A2+Repeat+%F0%9F%9A%80)](https://github.com/tuanminhhole)
 
 <!-- Profile views + followers -->
-<img src="https://komarev.com/ghpvc/?username=tuanminhhole&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="views" />
-<a href="https://github.com/tuanminhhole?tab=followers"><img src="https://img.shields.io/github/followers/tuanminhhole?label=Followers&style=for-the-badge&color=8b5cf6&logo=github" alt="followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=tuanminhhole&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="views" />
+<a href="https://github.com/tuanminhhole?tab=followers"><img src="https://img.shields.io/github/followers/tuanminhhole?label=Followers&style=for-the-badge&color=58a6ff&logo=github" alt="followers" /></a>
 
 </div>
 
@@ -73,12 +73,12 @@ const kent = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tuanminhhole&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=8b5cf6&icon_color=8b5cf6" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanminhhole&layout=compact&hide_border=true&theme=tokyonight&title_color=8b5cf6&langs_count=8" alt="top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tuanminhhole&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=58a6ff&icon_color=58a6ff" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanminhhole&layout=compact&hide_border=true&theme=tokyonight&title_color=58a6ff&langs_count=8" alt="top langs" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=tuanminhhole&hide_border=true&theme=tokyonight&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" alt="streak" width="70%" />
+<img src="https://streak-stats.demolab.com?user=tuanminhhole&hide_border=true&theme=tokyonight&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="streak" width="70%" />
 
 </div>
 
@@ -106,6 +106,6 @@ const kent = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,50:0b3a6f,100:38bdf8&height=120&section=footer" width="100%" alt="footer" />
   <sub>⚡ <i>Vọc Tech Không Cọc</i> · made with 🦞 by <b>Kent (tuanminhhole)</b></sub>
 </div>
