@@ -1,0 +1,115 @@
+<!-- ✨ Animated waving header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=tuanminhhole&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Kent%20•%20Vọc%20Tech%20Không%20Cọc&descAlignY=58&descSize=20" width="100%" alt="header" />
+</div>
+
+<!-- ⌨️ Typing animation -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=AI+Agent+%26+Chatbot+builder+%F0%9F%A4%96;Automation+with+n8n+%E2%9A%A1;OpenClaw+ecosystem+author+%F0%9F%A6%9E;Ko+bi%E1%BA%BFt+th%C3%AC+h%E1%BB%8Dc+%F0%9F%98%8E)](https://github.com/tuanminhhole)
+
+<!-- Profile views + followers -->
+<img src="https://komarev.com/ghpvc/?username=tuanminhhole&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="views" />
+<a href="https://github.com/tuanminhhole?tab=followers"><img src="https://img.shields.io/github/followers/tuanminhhole?label=Followers&style=for-the-badge&color=8b5cf6&logo=github" alt="followers" /></a>
+
+</div>
+
+---
+
+## 👋 Về mình
+
+```ts
+const kent = {
+  name: "Hồ Lê Minh Tuấn",
+  alias: "Kent",
+  pronouns: "he/him",
+  brand: "MonkeyTech 🐵",
+  motto: "Vọc Tech Không Cọc — Ko biết thì học 😎",
+  focus: ["AI Agent (OpenClaw)", "Chatbot: Telegram · Zalo · Messenger", "n8n Automation", "Dev tools"],
+  shares: "Bot • Automation • Tool hay",
+  currentlyBuilding: "🦞 OpenClaw ecosystem (open-source, free)",
+};
+```
+
+---
+
+## 🌐 Kết nối với mình
+
+<div align="center">
+
+<a href="https://monkeytech192.vn"><img src="https://img.shields.io/badge/Website-monkeytech192.vn-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
+<a href="https://www.facebook.com/holeminhtuan.it"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
+<a href="https://www.threads.com/@holeminhtuan_it"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="threads" /></a>
+<a href="https://t.me/holeminhtuan_it"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
+<a href="https://zalo.me/0962794917"><img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="zalo" /></a>
+<a href="https://orcid.org/0009-0003-8608-7900"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="orcid" /></a>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,docker,bash,linux,git,github,vscode,html,css,react,tailwind&perline=14" alt="skills" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tuanminhhole&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=8b5cf6&icon_color=8b5cf6" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanminhhole&layout=compact&hide_border=true&theme=tokyonight&title_color=8b5cf6&langs_count=8" alt="top langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=tuanminhhole&hide_border=true&theme=tokyonight&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" alt="streak" width="70%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=tuanminhhole&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
+
+</div>
+
+---
+
+## 🦞 OpenClaw Ecosystem
+
+> Bộ công cụ mã nguồn mở giúp bạn dựng & vận hành trợ lý AI miễn phí — không cần biết code.
+
+| Repo | Mô tả |
+|---|---|
+| [**openclaw-setup**](https://github.com/tuanminhhole/openclaw-setup) | 🚀 Web UI cài & quản lý bot AI (Telegram · Zalo · Messenger · Docker) |
+| [**vietbrain**](https://github.com/tuanminhhole/vietbrain) | 🧠 Bộ "Não Thứ Hai" tiếng Việt cho Obsidian (sẵn sàng AI) |
+| [**openclaw-zalo-mod**](https://github.com/tuanminhhole/openclaw-zalo-mod) | 💬 Quản lý nhóm Zalo zero-token (slash, anti-spam, memory) |
+| [**openclaw-skill-learning-memory**](https://github.com/tuanminhhole/openclaw-skill-learning-memory) | 🧩 Bộ nhớ dài hạn & tự tiến hóa cho agent |
+| `openclaw-fb-messenger` | 🔌 Kênh Facebook Messenger *(private — liên hệ để nhận)* |
+
+---
+
+<!-- 🐍 Contribution snake (auto-generated by GitHub Action) -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/tuanminhhole/tuanminhhole/output/snake-dark.svg" alt="contribution snake" width="100%" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+  <sub>⚡ <i>Vọc Tech Không Cọc</i> · made with 🦞 by <b>Kent (tuanminhhole)</b></sub>
+</div>
