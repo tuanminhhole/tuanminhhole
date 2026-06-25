@@ -80,10 +80,6 @@ const kent = {
 
 <img src="https://streak-stats.demolab.com?user=tuanminhhole&hide_border=true&theme=tokyonight&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" alt="streak" width="70%" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=tuanminhhole&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
-
 </div>
 
 ---
