@@ -1,0 +1,8 @@
+# Bí mật (BI-MAT.md): repo profile chỉ có README, nhưng vẫn chặn phòng lỡ tay
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.key
+.DS_Store
